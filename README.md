@@ -76,3 +76,6 @@ Here contains a list of potential improvements to the program as a whole, whethe
 2. Grayscale sensor data is already recorded along with speed and steering, this data can be used in the training and interpretation. It may be a very easy function to train - all grayscale sensors must read black, if not, turn away from that direction.
 3. Add a color picker to choose the color of the track, and make a range out of it based on the RGB value, so the track can be any color as long as it contrasts the background.
 4. Tweak the training mode head pan algorithm so it both follows the wheels into turns, but does not have any sudden movements for better picture quality.
+
+
+Many thanks to the engineers at Sunfounder and the developers from Donkeycar for the inspiration and help.
